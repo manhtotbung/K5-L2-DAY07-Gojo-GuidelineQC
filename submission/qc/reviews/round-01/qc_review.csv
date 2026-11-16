@@ -1,0 +1,53 @@
+image,object_id,error_type,reviewer,rule_id,region,note
+img_001.jpg,7,sai_vi_tri_kich_thuoc,102,R-02,,Hai người ngồi sát nhau ở bàn trái; box v1 gộp phần thấy được của cả hai.
+img_001.jpg,,bo_sot,102,R-02,"Người áo đen ngay cạnh bảng thực đơn, có mặt và giày trắng, bị nhập vào box người áo hồng.","Người áo đen ngay cạnh bảng thực đơn, có mặt và giày trắng, bị nhập vào box người áo hồng."
+img_002.jpg,,khong,102,,,
+img_003.jpg,31,sai_vi_tri_kich_thuoc,102,R-03,,Box car phía giữa-phải vướng qua scooter đỏ và bỏ thân xe bạc ở bên trái.
+img_003.jpg,,bo_sot,102,R-07,Scooter đen-trắng sát mép phải có mặt nạ và bánh trước đủ nhận diện.,Scooter đen-trắng sát mép phải có mặt nạ và bánh trước đủ nhận diện.
+img_003.jpg,,bo_sot,102,R-07,Xe máy bạc liền trái scooter sát mép phải có bánh trước riêng và thân nhìn được.,Xe máy bạc liền trái scooter sát mép phải có bánh trước riêng và thân nhìn được.
+img_004.jpg,37,sai_vi_tri_kich_thuoc,102,R-03,,"Tài xế bên trái có giày và ống quần lộ ra ở bậc dưới, ngoài box mặt/ngực."
+img_005.jpg,,bo_sot,102,R-02,Thấy cụm gương bên trái và tay lái của xe khác ở bên trên xe người áo xanh; đường thân bị che nhiều.,Thấy cụm gương bên trái và tay lái của xe khác ở bên trên xe người áo xanh; đường thân bị che nhiều.
+img_006.jpg,,khong,102,,,
+img_007.jpg,,khong,102,,,
+img_008.jpg,89,sai_lop,102,R-04,,"Phương tiện tối ngay sau xe máy giữa đường có kết cấu xe ba bánh nhỏ, không đủ dấu hiệu thùng tải riêng."
+img_008.jpg,95,sai_vi_tri_kich_thuoc,102,R-03,,Box xe của người áo xám kết thúc trước bánh sau và bao thiếu đuôi xe.
+img_009.jpg,,khong,102,,,
+img_010.jpg,,khong,102,,,
+img_011.jpg,143,thua,102,R-04,,Mảng kim loại từ mép trái vào không có bánh/thân đủ rõ để xác lập một xe riêng.
+img_012.jpg,,khong,102,,,
+img_013.jpg,,khong,102,,,
+img_014.jpg,158,sai_vi_tri_kich_thuoc,102,R-03,,"Box người phụ nữ cần lấy tới gót giày dưới, bỏ phần túi xách."
+img_015.jpg,,khong,102,,,
+img_016.jpg,169,sai_vi_tri_kich_thuoc,102,R-06,,Áo đỏ vẫn tiếp tục tới rìa dưới nên đáy hộp bằng chiều cao ảnh.
+img_017.jpg,,khong,102,,,
+img_018.jpg,,khong,102,,,
+img_019.jpg,186,sai_vi_tri_kich_thuoc,102,R-03,,Người sát máy phía dưới bên phải còn lộ vai áo từ x xấp xỉ 630.
+img_020.jpg,,khong,102,,,
+img_021.jpg,,bo_sot,102,R-07,"Xe dưới người áo xám ở ngoài cùng phía phải cụm có biển, đèn và bánh sau riêng.","Xe dưới người áo xám ở ngoài cùng phía phải cụm có biển, đèn và bánh sau riêng."
+img_022.jpg,,khong,102,,,
+img_023.jpg,240,sai_vi_tri_kich_thuoc,102,R-03,,"Xe đỗ bên phải bị nhập với silhouette phía sau, chỉnh biên phần nhìn thấy của xe đầu hàng."
+img_024.jpg,250,sai_vi_tri_kich_thuoc,102,R-03,,Box xe đen còn thiếu đầu xe ở bên phải và lấy một phần sát cụm trưng bày trên nóc.
+img_025.jpg,,khong,102,,,
+img_026.jpg,268,sai_vi_tri_kich_thuoc,102,R-03,,Phần giày và ống quần của người lái còn thấy dưới chân người ngồi sau.
+img_027.jpg,,khong,102,,,
+img_028.jpg,,khong,102,,,
+img_029.jpg,276,sai_vi_tri_kich_thuoc,102,R-03,,Người rất xa giữa người đi bộ và cột có biên dưới bị kéo dài theo chân người đứng trước.
+img_030.jpg,290,sai_vi_tri_kich_thuoc,102,R-02,,Box bên trái nối hai xe có hai biển số; thu về xe có biển nhìn gần giữa-trái.
+img_031.jpg,,khong,102,,,
+img_032.jpg,319,sai_vi_tri_kich_thuoc,102,R-02,,"Hộp sát cột bao cả hai người, thu về người áo nâu phía bên phải."
+img_032.jpg,,bo_sot,102,R-07,"Người phía sau bảng tròn bên trái, vùng x30–55 y252–336.","Người phía sau bảng tròn bên trái, vùng x30–55 y252–336."
+img_032.jpg,,bo_sot,102,R-07,"Người áo vàng giữa hàng, x310–344 y263–357.","Người áo vàng giữa hàng, x310–344 y263–357."
+img_032.jpg,,bo_sot,102,R-07,"Người áo tím bên phải người áo vàng, x345–375 y267–359.","Người áo tím bên phải người áo vàng, x345–375 y267–359."
+img_032.jpg,,bo_sot,102,R-07,"Người áo khoác tím nhạt đứng thẳng bên trái trạm, x389–427 y267–365.","Người áo khoác tím nhạt đứng thẳng bên trái trạm, x389–427 y267–365."
+img_032.jpg,,bo_sot,102,R-07,"Người áo xanh giày trắng bên trái biển quảng cáo, x455–496 y268–368.","Người áo xanh giày trắng bên trái biển quảng cáo, x455–496 y268–368."
+img_032.jpg,,bo_sot,102,R-07,"Người đội mũ sáng mặt giữa tấm bảng phía sau, x535–568 y277–367.","Người đội mũ sáng mặt giữa tấm bảng phía sau, x535–568 y277–367."
+img_032.jpg,,bo_sot,102,R-07,"Người đứng cạnh đầu phải hàng trước mái kính, x602–633 y272–366.","Người đứng cạnh đầu phải hàng trước mái kính, x602–633 y272–366."
+img_033.jpg,,khong,102,,,
+img_034.jpg,349,thua,102,R-02,,Vật có khung thanh mảnh và bánh xe đạp phía bên phải sedan; giữ box người điều khiển.
+img_034.jpg,350,sai_vi_tri_kich_thuoc,102,R-03,,Người ngồi bên trái xe máy nền xa có một phần chi bị sáp vào hành khách bên cạnh.
+img_035.jpg,,khong,102,,,
+img_036.jpg,375,sai_vi_tri_kich_thuoc,102,R-03,,"Ô tô sáng sau xe hàng ở sát mép trái có đầu xe rõ, phần dưới bị che bởi dãy xe máy."
+img_037.jpg,,khong,102,,,
+img_038.jpg,,khong,102,,,
+img_039.jpg,396,thua,102,R-02,,Vành và khung mảnh ở mép phải thuộc xe đạp dựng trên vỉa hè.
+img_040.jpg,406,sai_vi_tri_kich_thuoc,102,R-03,,Biên trái của hộp xe tiền cảnh ôm quá xa ra ngoài gương trái.

@@ -1,0 +1,41 @@
+image,object_id,error_type,reviewer,rule_id,region,note
+img_001.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Kiểm phần xe hàng và người sát nhau ở bàn bên trái.
+img_002.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Kiểm xe con trên giàn, tách phần giàn xe tải khỏi các xe được chở."
+img_003.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Tách cụm xa trên đường và nền dãy xe đỗ phải về các vùng hẹp. Thêm người có mũ và người ven đường, xe con bạc bị che và các xe máy tách được. Giữ hai xe máy đã gán sát cạnh phải."
+img_004.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Kiểm từng tuk-tuk và người điều khiển ngồi phía trong.
+img_005.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Kiểm van thân hộp liền và xe máy tiền cảnh. Còn chờ xác nhận A002 ở box #65 về ranh giới giữa hai cụm tay lái và gương đang chồng nhau.
+img_006.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Giữ người ở giữa khung. Tách người có mũ xanh, người áo tối ở phía sau, xe hai bánh có đèn phía xa và ô tô qua khe giữa người đi đường. Thu hẹp ignore theo đoạn sâu của dòng xe."
+img_007.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Hai xe trong kho được đối chiếu theo cabin và thùng chở hàng.
+img_008.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Tách người áo tối quay lưng, người đeo khẩu trang sáng, người áo trắng và người mặc đồ cam. Dời các vùng ignore về rìa quầy và phần sâu giữa dãy hàng."
+img_009.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Bus ở giữa làm nền. Kiểm box người nhìn qua kính và xe máy hai bên.
+img_010.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Kiểm riêng người bán, hai người đi xe và các scooter."
+img_011.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Thu vùng ignore về hàng khách xa cạnh lều. Giữ riêng người đã gán ở rìa sân, gồm hai người gần x=407 và x=421. Còn chờ xác nhận A003 ở box #170 về phần bánh dưới nhân vật trưng bày có thuộc xe độc lập hay không."
+img_012.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Kiểm pickup và phần thân xe phía sau còn nhìn thấy.
+img_013.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Kiểm người đi bộ và xe cạnh vỉa hè, loại hình phản chiếu."
+img_014.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Người đi bộ rõ được gán riêng. Giữ vùng ignore cho các dải xe nhòe.
+img_015.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Kiểm xe thấy trực tiếp, vùng mặt đường ướt và phản chiếu."
+img_016.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Kiểm van, pickup, tuk-tuk, người rõ và phần bị cắt ở mép."
+img_017.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Tượng kỵ sĩ nằm ngoài phạm vi.
+img_018.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Giữ ô tô nhìn trực tiếp sau hàng rào. Người trên biển là hình in.
+img_019.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Tách người rõ cạnh hàng rào và các thân người có thể thấy ở khán giả. Chia vùng ignore theo hàng đám đông phía sau, đưa tài xế, người sát xe và người có box tách được ra khỏi vùng phủ cũ."
+img_020.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Xe chủ và phản chiếu qua gương nằm ngoài phạm vi.
+img_021.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Tách hai xe con nhìn thấy và người có thể phân định ở hàng xe gần. Đưa các dải ignore lùi về nơi người và xe phía xa đan xen.
+img_022.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Scooter và sidecar cùng một đối tượng.
+img_023.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Thu vùng ignore về phía xa trên đường. Giữ riêng xe máy cạnh cửa xanh và ô tô thấy được ở gần tâm làn đường.
+img_024.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Ca A001. Thân trưng bày vàng ở nóc làm nền. Kiểm box xe đen bên dưới.
+img_025.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Rà bổ sung ở ngoài danh sách phủ 50%. Tách người cúi bên ghế, người áo xanh và các người tách được ở băng ghế. Chỉ giữ vùng ignore trên dải người xa lẫn ghế và ô."
+img_026.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Kiểm hai người và một xe, phần xe nhìn thấy đến mép dưới."
+img_027.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Pickup cố định trên đài tưởng niệm nằm ngoài phạm vi.
+img_028.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Pickup nhìn trực tiếp. Tượng ngựa không kéo dài biên trên box.
+img_029.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Bỏ vùng ignore phía cột vì người và phần xe hai bánh đã tách được bằng các box riêng. Không phủ chung các box này.
+img_030.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Chia vùng ignore theo các cụm gương, yên và xe đỗ khó phân định ở hàng sau. Thu hộp xe sáng ở giữa trái và tách xe sẫm có biển số kế bên. Giữ cờ xác nhận cũ trên xe bị che ở nhóm kế trước. Còn chờ xác nhận A004 ở box #361 về biên của xe bị che trong nhóm xe đỗ giữa-trái."
+img_031.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Rà bổ sung ở ngoài danh sách phủ 50%. Tách vùng ignore đêm theo các cụm người và xe khó phân định, bỏ khoảng ngang thân xe buýt và phần biển hiệu."
+img_032.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Bỏ vùng ignore phủ ngang hàng chờ xe. Giữ sáu box có sẵn và thêm các người tách được tại mép trái, giữa và phải vùng cũ. Box theo phần nhìn thấy của từng người."
+img_033.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Ma-nơ-canh và phản chiếu trên mặt kính nằm ngoài phạm vi.
+img_034.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Kiểm người đi bộ, sedan phía sau và người đi xe hai bánh. Xe đạp làm nền."
+img_035.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Kiểm box tuk-tuk theo mui cứng, tách kiện hàng khỏi biên xe."
+img_036.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Thu vùng ignore trái xuống dưới ô tô bạc. Thu vùng bên phải về phần gương và thân xe ở hàng đỗ phía sau, tránh hộp chính của xe và người."
+img_037.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Q036. Pickup có nắp cao là car. Bus/minibus kiểu bus giữ làm nền.
+img_038.jpg,,khong,101,,,Lượt rà tự động trên ảnh gốc và ảnh chồng box. Đồ chơi trong tủ nằm ngoài phạm vi.
+img_039.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Rà bổ sung ở ngoài danh sách phủ 50%. Thu vùng ignore về đầu dãy xe máy chồng lấn, bỏ phần mái và bảng hiệu bên trên. Giữ các box người nhìn rõ."
+img_040.jpg,,khong,101,,,"Lượt rà tự động trên ảnh gốc và ảnh chồng box. Kiểm taxi, hai tuk-tuk và người đội mũ ở tiền cảnh."

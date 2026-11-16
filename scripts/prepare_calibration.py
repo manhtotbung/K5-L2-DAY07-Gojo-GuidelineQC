@@ -14,9 +14,10 @@ def draft_source(prior, final):
     if LABELS_PATH.is_file() and MANIFEST_PATH.is_file():
         manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
         taxonomy = final_taxonomy_path()
+        inputs = {name.replace("\\", "/"): value for name, value in manifest.get("inputs_sha256", {}).items()}
         if (
             manifest.get("labels", {}).get("sha256") == digest(LABELS_PATH)
-            and manifest.get("inputs_sha256", {}).get(rel(taxonomy)) == digest(taxonomy)
+            and inputs.get(rel(taxonomy)) == digest(taxonomy)
         ):
             return LABELS_PATH
     if prior.classes == final.classes and prior.attrs == final.attrs:

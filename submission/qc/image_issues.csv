@@ -1,0 +1,5 @@
+image,annotator,region,note
+img_002.jpg,102,Sàn dưới của xe chở ô tô,Đối chiếu mỗi thân xe và đường sàn trước khi chốt các box che nhiều.
+img_024.jpg,101,Xe vàng ở vị trí trên nóc xe đen,Kiểm xem cụm trưng bày có phải xe hoàn chỉnh theo R-04.
+img_030.jpg,101,Hàng xe máy dựng sát vùng giữa ảnh,Rà ranh giới cụm ignore và các xe ở mép trước cụm.
+img_035.jpg,102,Tuk-tuk vàng với nhiều bao phía trên,Kiểm đường biên giữa mui xe và kiện hàng rời.

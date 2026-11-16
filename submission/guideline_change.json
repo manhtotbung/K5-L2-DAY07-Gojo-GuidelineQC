@@ -1,0 +1,4 @@
+{
+  "kind": "editorial",
+  "summary": "Bổ sung ví dụ và phép kiểm phần thân trưng bày, sidecar, hàng rời, biên ảnh và ranh giới ignore. Taxonomy v1.1 ghi rõ bus nằm ngoài phạm vi và pickup có nắp thùng thuộc car. Giữ phạm vi lớp, miền thuộc tính và ngưỡng."
+}

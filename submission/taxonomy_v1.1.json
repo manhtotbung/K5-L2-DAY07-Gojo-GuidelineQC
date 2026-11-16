@@ -1,0 +1,68 @@
+{
+  "version": "v1.1",
+  "ignore_class": "ignore_region",
+  "classes": [
+    {
+      "name": "car",
+      "definition": "Xe con, SUV, taxi kiểu xe con và pickup kể cả khi có nắp thùng gắn cố định."
+    },
+    {
+      "name": "truck",
+      "definition": "Xe hàng có cabin và thùng/sàn hàng tách biệt về kết cấu; đầu kéo với rơ-moóc đang nối là một xe."
+    },
+    {
+      "name": "van",
+      "definition": "Xe thân hộp liền từ cabin tới khoang sau kín, không có thùng rời. Bus và minibus kiểu bus nằm ngoài phạm vi gán nhãn. Pickup có nắp thùng vẫn thuộc car."
+    },
+    {
+      "name": "motorcycle",
+      "definition": "Xe máy, mô tô, scooter, mô tô kèm sidecar và tuk-tuk ba bánh có động cơ."
+    },
+    {
+      "name": "person",
+      "definition": "Người thật nhìn trực tiếp, gồm người điều khiển, hành khách và người nhìn qua kính trong."
+    },
+    {
+      "name": "ignore_region",
+      "definition": "Vùng hẹp cho vật mục tiêu nhỏ hơn ngưỡng hoặc nhóm bị che/mờ không phân định được từng cá thể."
+    }
+  ],
+  "attributes": [
+    {
+      "name": "occluded_level",
+      "type": "select",
+      "values": [
+        "0",
+        "1",
+        "2",
+        "3"
+      ],
+      "default": "0"
+    },
+    {
+      "name": "truncated",
+      "type": "select",
+      "values": [
+        "no",
+        "yes"
+      ],
+      "default": "no"
+    },
+    {
+      "name": "can_review",
+      "type": "checkbox",
+      "values": [],
+      "default": "false"
+    }
+  ],
+  "rules": {
+    "min_box_height_px": 20,
+    "iou_thr_large": 0.85,
+    "iou_thr_small": 0.7,
+    "large_px": 50,
+    "iaa_iou": 0.85,
+    "iaa_class": 0.95,
+    "error_rate_img_max": 0.02,
+    "match_iou": 0.5
+  }
+}

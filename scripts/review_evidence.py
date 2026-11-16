@@ -22,7 +22,7 @@ def current_batch():
     manifest = json.loads(MANIFEST_PATH.read_text(encoding="utf-8"))
     taxonomy = final_taxonomy_path()
     tax = load_taxonomy(taxonomy)
-    if manifest["taxonomy"] != rel(taxonomy) or manifest["taxonomy_version"] != tax.version:
+    if manifest["taxonomy"].replace("\\", "/") != rel(taxonomy) or manifest["taxonomy_version"] != tax.version:
         raise ValueError("Taxonomy hiện tại lệch hồ sơ bàn giao. Chạy build_final.py.")
     labels = require_valid_labels(LABELS_PATH, tax)
     if manifest["labels"]["sha256"] != digest(LABELS_PATH):
@@ -30,7 +30,7 @@ def current_batch():
     if manifest["csv_sha256"] != digest(QC_DIR / "labels_calibrated.csv"):
         raise ValueError("CSV nhãn cuối lệch batch_manifest.json. Chạy build_final.py.")
     for name, expected in manifest["inputs_sha256"].items():
-        path = ROOT / name
+        path = ROOT / name.replace("\\", "/")
         if not path.is_file() or digest(path) != expected:
             raise ValueError(f"Đầu vào lô thiếu hoặc đã đổi: {name}. Chạy build_final.py.")
     entries = {entry["file"]: entry["sha256"] for entry in manifest["images"]}

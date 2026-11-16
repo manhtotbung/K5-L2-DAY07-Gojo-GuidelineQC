@@ -1,0 +1,41 @@
+image,object_id,error_type,reviewer,rule_id,region,note
+img_001.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Tách hai người bàn trái; xe tải cắt ở mép phải và dưới.
+img_002.jpg,,khong,102,,,"Đối chiếu ảnh gốc và overlay. Một giàn chở xe, tám xe con phân biệt và người cạnh đuôi giàn."
+img_003.jpg,,khong,102,,,"Đối chiếu ảnh gốc và overlay. Đã rà xe con sau người cúi, xe máy sát phải, rổ hàng và xe đạp."
+img_004.jpg,,khong,102,,,"Đối chiếu ảnh gốc và overlay. Hai tuk-tuk; hai người điều khiển, chân người bên trái thấy dưới khung."
+img_005.jpg,,khong,102,,,"Chưa xác nhận lỗi. Ca mở A002, hộp #55. Hai cụm tay lái/gương chồng nhau; cần xác nhận ranh giới từng xe."
+img_006.jpg,,khong,102,,,"Đối chiếu ảnh gốc và overlay. Giữ người đi xe đạp, xe đạp nền. Đối chiếu ba xe máy gần và dải xa."
+img_007.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Kiểm hai thùng hàng tách cabin; đầu xe trắng cùng box với thùng hàng.
+img_008.jpg,,khong,102,,,"Đối chiếu ảnh gốc và overlay. Bỏ box mô tô trùng Q033, kiểm biển và bánh sau ở cụm đỗ."
+img_009.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Bus ngoài phạm vi; giữ người thật nhìn qua kính và xe máy hai bên.
+img_010.jpg,,khong,102,,,"Đối chiếu ảnh gốc và overlay. Tách người bán, người lái và hành khách; kiểm scooter sát mép."
+img_011.jpg,,khong,102,,,"Chưa xác nhận lỗi. Ca mở A003, hộp #146. Cần xác nhận phần bánh dưới nhân vật trưng bày thuộc xe độc lập."
+img_012.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Giữ pickup và xe hàng phía sau; loại đề xuất trùng trên phần xe bị che.
+img_013.jpg,,khong,102,,,"Đối chiếu ảnh gốc và overlay. Đối chiếu phản chiếu trên mặt đường, xe đỗ và người trên vỉa hè."
+img_014.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Giữ hai người đi bộ sắc nét; xe nhòe nặng đi vào vùng ignore.
+img_015.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Giữ xe trực tiếp và phần xe phía sau; ánh phản chiếu mặt đường là nền.
+img_016.jpg,,khong,102,,,"Đối chiếu ảnh gốc và overlay. Kiểm scooter xanh, van, pickup, hai tuk-tuk và người cắt mép phía trước."
+img_017.jpg,,khong,102,,,"Đối chiếu ảnh gốc và overlay. Tượng kỵ sĩ là nền, ảnh giữ trong COCO với 0 annotation."
+img_018.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Người in không gán; các xe sau hàng rào gán phần nhìn trực tiếp.
+img_019.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Giữ xe diễu hành và người lái; nhân vật chuột là vật trang trí.
+img_020.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Gương và xe chủ ngoài phạm vi; ảnh giữ trong COCO với 0 annotation.
+img_021.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Đã bỏ hộp xe trùng Q034; xem lại xe tách được ở phía phải dòng xe.
+img_022.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Sidecar và mô tô cùng một đối tượng.
+img_023.jpg,,khong,102,,,"Đối chiếu ảnh gốc và overlay. Đã bỏ hộp xe đỗ trùng Q035; giữ người lái xích lô, xe đạp là nền."
+img_024.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. A001 bỏ thân vỏ vàng trên nóc; Q016 chỉnh biên xe đen ở lượt sau.
+img_025.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Giữ người trên lối đi và xe tách được. Rà cụm người lẫn ghế bên bờ.
+img_026.jpg,,khong,102,,,"Đối chiếu ảnh gốc và overlay. Ba box riêng. Hộp xe cắt dưới, hai người có phần nhìn thấy kết thúc trong ảnh."
+img_027.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Pickup tưởng niệm trên bệ là nền; ảnh giữ 0 annotation.
+img_028.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Pickup nâu là xe thật; tượng ngựa không kéo biên box lên cao.
+img_029.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Loại thanh dài khỏi hộp xe máy. Giữ người đi xe đạp; xe đạp là nền.
+img_030.jpg,,khong,102,,,"Chưa xác nhận lỗi. Ca mở A004, hộp #291. Hai xe chéo trong hàng đỗ giữa-trái còn cần xác nhận biên."
+img_031.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Kiểm xe và người nhìn trực tiếp; giữ vùng ignore nơi vật xa lẫn ánh đèn.
+img_032.jpg,,khong,102,,,"Đối chiếu ảnh gốc và overlay. Giữ các người rõ ở hai đầu và các người tách được trước cụm, còn vùng đan xen dùng ignore."
+img_033.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Ma-nơ-canh và phản chiếu là nền; ảnh giữ 0 annotation.
+img_034.jpg,,khong,102,,,"Đối chiếu ảnh gốc và overlay. Sedan sau người đi bộ có che khuất; bỏ hộp xe đạp, giữ người lái."
+img_035.jpg,,khong,102,,,"Đối chiếu ảnh gốc và overlay. Hai tuk-tuk là motorcycle, mui xe có trong box, bao hàng để ngoài biên."
+img_036.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Xe xanh cabin rời thùng là truck; người in trên pano là nền.
+img_037.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Pickup có nắp cao là car; bus ở hai phía ngoài taxonomy.
+img_038.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Mô hình trên kệ tủ là nền; ảnh giữ 0 annotation.
+img_039.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Kiểm xe máy trong cửa tối và dãy xe ven đường; bỏ xe đạp sát mép phải.
+img_040.jpg,,khong,102,,,Đối chiếu ảnh gốc và overlay. Một taxi xanh và hai tuk-tuk; người in trên thẻ kính xe để nền.

@@ -36,7 +36,10 @@ def require_iaa() -> dict:
     if not source.is_file():
         raise ValueError("Thiếu iaa_summary.json. Chạy qc_compare.py trước.")
     summary = json.loads(source.read_text(encoding="utf-8"))
-    if summary.get("inputs") != input_hashes():
+    recorded = summary.get("inputs")
+    if not isinstance(recorded, dict) or {
+        Path(name.replace("\\", "/")).as_posix(): value for name, value in recorded.items()
+    } != input_hashes():
         raise ValueError("Đầu vào IAA đã thay đổi. Khôi phục bản đã khóa hoặc chạy lại qc_compare.py.")
     for name in ("consensus_draft.json", "flagged_images.txt", "calibration_candidates.csv"):
         artifact = QC_DIR / name

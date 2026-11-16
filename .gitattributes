@@ -1,0 +1,6 @@
+# QC manifests verify the exact bytes of these files.
+/data/ATTRIBUTION.csv -text whitespace=cr-at-eol
+/submission/*.json -text whitespace=cr-at-eol
+/submission/guidelines/guideline_v1.*.md -text whitespace=cr-at-eol
+/submission/labels/*.json -text whitespace=cr-at-eol
+/submission/qc/** -text whitespace=cr-at-eol
